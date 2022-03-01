@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Wonderful and strange news from Scotland, being a true and full relation of a person lately deceased at the town of Dumfreez, whose corps could by no art of man, or strength of cattle, be removed from the place where it lay. And when the house wherein it was, was wholly burnt down to the ground, the body, coffin, and table whereon it stood, remained whole and untoucht, and so continues to the great astonishment of all spectators. / Faithfully communicated by a person of quality, in a letter from the said town of Dumfreez. Dated Septemb. 8. 1673.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06693</idno>
+            <idno type="STC">Wing W3361A</idno>
+            <idno type="STC">ESTC R187844</idno>
+            <idno type="EEBO-CITATION">52529126</idno>
+            <idno type="OCLC">ocm 52529126</idno>
+            <idno type="VID">179281</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06693)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179281)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2782:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Wonderful and strange news from Scotland, being a true and full relation of a person lately deceased at the town of Dumfreez, whose corps could by no art of man, or strength of cattle, be removed from the place where it lay. And when the house wherein it was, was wholly burnt down to the ground, the body, coffin, and table whereon it stood, remained whole and untoucht, and so continues to the great astonishment of all spectators. / Faithfully communicated by a person of quality, in a letter from the said town of Dumfreez. Dated Septemb. 8. 1673.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B. H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On final leaf: If the reader doubts the truth of this matter, he may repair to these persons following ...</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dead --  Miscellanea --  17th century.</term>
+               <term>Supernatural --  Miscellanea --  17th century.</term>
+               <term>Curiosities and wonders --  Scotland --  Dumfries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179281:1"/>
+            <!-- PDF PAGE 119 -->
+            <pb facs="tcp:179281:1"/>
+            <!-- PDF PAGE 119 -->
+            <pb facs="tcp:179281:2"/>
+            <!-- PDF PAGE 120 -->
+            <pb facs="tcp:179281:2"/>
+            <!-- PDF PAGE 120 -->
+            <p>Wonderful and Strange NEWS FROM Scotland, BEING A true and full Relation of a Perſon lately Deceaſed at the Town of <hi>Dumfreez,</hi> whoſe Corps could by no <hi>Art</hi> of Man, or Strength of Cattle, be Remo<g ref="char:EOLhyphen"/>ved from the Place where it Lay.</p>
+            <p>And when the Houſe wherein it was, was wholly <hi>Burnt</hi> down to the Ground, the Body, Coffin, and Table whereon it ſtood, remained Whole and <hi>
+                  <g ref="char:V">Ʋ</g>ntoucht,</hi> and ſo <hi>Continues</hi> to the great Aſtoniſhment of all Spectators.</p>
+            <p>Faithfully Communicated by a Perſon of <hi>Quality,</hi> in a Letter from the ſaid Town of <hi>Dumfreez.</hi> Dated <hi>Septemb.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>8. 1673.</p>
+            <q>Great and Wonderful are the Works and Judgments of <hi>Jehovah;</hi> And <hi>who</hi> can find them out?</q>
+            <p>
+               <hi>London,</hi> Printed for <hi>B. H.</hi> Anno Dom. 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:179281:3"/>
+            <!-- PDF PAGE 121 -->
+            <pb n="1" facs="tcp:179281:3"/>
+            <!-- PDF PAGE 121 -->
+            <head>Wonderful and Unparralleld News from <hi>Scotland.</hi>
+            </head>
+            <p>WHether thoſe St pendious Operations of Omnipo<g ref="char:EOLhyphen"/>tency, which dim-ſighted Humanity admires by the Name of Miracles, and Infinite VViſdom made uſe of for Confirming and Propagating Evangelical Truths in the In<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ancy of the Ch<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch, be yet totally Ceaſed<g ref="char:punc">▪</g> is a Diſp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te too Abſtruſe and Curio<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to be Diſcuſſed (much leſs Determined) by our <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er Pen: Yet this we muſt declare, that the enſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing Na<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rative carries with it ſo much of Rarity and VVonder, that had we not been well Satisfied in the worth and Credit of the Relaters we could not have preſumed to Expoſe it thus publickly to the VVorld without much Caution and a large Apologie.</p>
+            <p>But being amply Convinced of the Truth of the thing as to matter of Fact, we conceive it a Duty rather than Crime, to Divulg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Regiſter ſo Eminent and Signal an Accident (or rather Di<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>penſation of Providence) to the View of the pre<g ref="char:EOLhyphen"/>ſent Age an notice of Poſterity: Not that we are Ignorant how Obnox<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous generally (and ſometimes for good Reaſon) ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n Relations a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to Suſpition and Cenſure, and how ready thoſe that Pride themſelves in being counted mighty VVits, as they make a Mock of Sin, are to turn the moſt dreadfu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Judgments into Scoff and Drollery; from ſuch we may expect a Thouſand Intorrogatives. As wherefore? To what end? By what means? And how? could ſuch a ſtrange thing as this c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me to paſs, <hi>&amp;c.</hi>
+               <pb n="2" facs="tcp:179281:4"/>
+               <!-- PDF PAGE 122 -->But our Anſwer is as ready, that, Had we deſigned to abuſe the World with a Fiction, an ordinary Invention might ſo Artificially have compoſed a Story, as might have been Plau<g ref="char:EOLhyphen"/>ſible enough to Anſwer all the Nice Scurtinies of their wanton Imaginations: But that's a Liberty we dare not take, and only ſhall Nakedly ſet forth the Truth of the thing as it happened, and leave each Reader to make his own Gloſs or Comment on it afterwards as he pleaſes.</p>
+            <p>IN the Town of <hi>Dumfreez</hi> (Situate in <hi>Galloway,</hi> on the <hi>South</hi> of <hi>Scotland,</hi> near the Marſhes or Borders) there lately Dwelt an Antient man, of an ordinary Fortune, who in the ſecond week of this laſt <hi>September,</hi> happened to fall very Sick, his Diſtemper ſeemed to be only a violent Feaver; nor was there any thing Extraordinary in it, but this: That as he was Seized with it, he declared to his VVife and Neigh<g ref="char:EOLhyphen"/>bours, that he ſhould certainly Die of that Sickneſs, which continually prevailing againſt Languiſhing Nature, ſoon per<g ref="char:EOLhyphen"/>ſwaded them alſo to be of the ſame Opinion. But the very day before he departed this Life, he charged his wife to get him Buried within Three Hours after he ſhould be Dead. This his ſorrowful wife little Regarded, thinking them only to be Extravagant words that proceeded from the Diſtemperature of his Brain: which he obſorving, Repeated the ſame Injunction ſeveral times, both to her, and diverſe others of his Friends; very ſolemnly adding, that unleſs they did ſo Bury him in that ſhort ſpace, they ſhould never be able afterwards to bear away, or remove his Body. They askt him often, what he meant? And why he ſhould ſay ſo? But could procure no Anſwer from him, but this, with many deep ſighs, <hi>It would be ſo.</hi>
+            </p>
+            <p>The Malignity of the Diſeaſe was now arrived to the height, that Nature overpoured, could no longer-reſiſt, ſo that on the 28th. of the ſaid Month of <hi>September</hi> laſt this poor Creature was forced to quit the Stage of this Tran<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itory Life; Dying in a calm and ordinary Temper, without de<g ref="char:EOLhyphen"/>claring much his hopes, or betraying any ſymptoms of diſpair.</p>
+            <pb n="3" facs="tcp:179281:4"/>
+            <!-- PDF PAGE 122 -->
+            <p>His enfranchiſed Soul had no ſooner quitted the Priſon of his Body and was wafted to Eternity, but his Friends remem<g ref="char:EOLhyphen"/>bring his Charge of being ſpeedily Buried, reſolve to make a Truce with their Griefs, and not <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ſtill ſtupified with an un<g ref="char:EOLhyphen"/>profitable Sorrow, but rather execute as faſt as they can his dy<g ref="char:EOLhyphen"/>ing Commands in that particular: To this purpoſe a Coffin is immediately ſent for, and the Corps as ſoon as ſaid forth put into it, being placed on a Table in a Ground round, Neigh<g ref="char:EOLhyphen"/>bours are invited, and all preparation made to inter him that very Night; but the three hours were Elapſt, It being almoſt impoſſible to provide all things in ſo ſmall a time. At laſt the Company being met with Charitable intentions to bear and Accompany the body to it's long home, in the place Sacrated &amp; ſet a part for that purpoſe, which was above half a Mile diſtant, when they went to take up the Coffin. Behold! It would not ſtir, four or five men confeſſed themſelves too weak, and then the whole Company add their helping hands but to no purpoſe, the Coffin ſeems fixed to the Table to grow out of the Ground, rather than ſtand there, ſo that neither one nor the other could by all their ſtrength be removed, or ſtirred in the leaſt.</p>
+            <p>This accident aſtoniſhes all the Company, who having wea<g ref="char:EOLhyphen"/>ried themſelves to no purpoſe, repair at night to their reſpective Habitations fill'd with Admiration, and leaving the diſconſo<g ref="char:EOLhyphen"/>late Widdow and her poor Children, in the Houſe equally ore whe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m'd with Grief, and affrighted with this new kind of Prodigy.</p>
+            <p>Next day New Counſells were taken about carrying away this Corps, Since the Coffin could not be ſtirred, nor the Ta<g ref="char:EOLhyphen"/>ble moved by ſtrength of Man, they reſolve at laſt to try what may be done with that of Cattel; and to come at it conveni<g ref="char:EOLhyphen"/>ently are forced to pull down a wall and one ſide of the Houſe, which being done, they faſten ſeveral Teems both of Oxen and Horſes to the Coffin ſometimes, and ſometimes to the Table: But both remain ſtill as fixed and immoveable as a Rock, and which was remarkable though the ſtrength of the Cattle broke, moſt of their Tackling, yet neither the Coffin nor the Table, received the leaſt prejudice.</p>
+            <pb n="4" facs="tcp:179281:5"/>
+            <!-- PDF PAGE 123 -->
+            <p>They then eſſayed to open the Coffin and take out the Body, but that neither could be done; ſo that at length diſpairing of any ſucceſs, t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey give over attempting any thing further, but a <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the poor Woman and her C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ildren, to get out of the Houſe, and ſo <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eave it ſtanding; which they did accordingly, and carried all their moveable Goods to another Houſe in the Town.</p>
+            <p>Thus the Corps ſtood in the f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en Tenement for two or three days, and had as many wondring Pilgr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ms to viſit it, out of Curo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ty<g ref="char:punc">▪</g> as Superſtition in Fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eign parts carries to the Tomb of ſome Celebrated <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p>At laſt the Land Lord of the Houſe who dwelt ſome Miles diſtant, hearing great R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>port of this Prodigy, came to ſee it; and fin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll things as we have r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lated, becauſe his Houſe by this means wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rendred Incapable of being Tenanted (for who would willingly dwell in a Charnel Houſe) and that it was be<g ref="char:EOLhyphen"/>fore old and ruinous, reſolves wholly to demoliſh it, and build a new one in the place, and that he might be rid of this unparalleld Tomb, concludes to ſet the Houſe on Fire, not do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bting but thereby the Coffin, Table, and Corps would tog<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther with the reſt be ſo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n reduced to Aſhes; but he pro<g ref="char:EOLhyphen"/>mi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed himſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f too much, for when they had ſet <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Houſe all on Flames, and the ſame was wholly Burnt down to the Ground. The Coffin and Table ſtood as before, whole firm and un<g ref="char:EOLhyphen"/>toucht.</p>
+            <p>Seeing all ways fail, ſome Friends of the deceaſed, after the Houſe was Burnt took the pains to caſt up Earth <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bout Table, and at laſt have cover'd the Coffin with that Bank which yet can never hide the ſtrangeneſs of the thing, b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t that it will remain a wonder and a Rid<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le to fu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure Generations. And ſuch we leave it, without any impertinent di<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>qui<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion after the Cauſe of ſo Admirab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>Phen<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>non,</hi> or Saucy prying in<g ref="char:EOLhyphen"/>to the Eternal Dooms-day Book of Providence; which ſome<g ref="char:EOLhyphen"/>times for Reaſons only known to its infinite Wiſdom ſuffers wonderful things to come to paſs, and often (as in the well known Caſe of <hi>Lots</hi> Wife turned into a laſting Pillar of Salt) ſets up amazing Monuments of Divine Juſtice for Sin, to warn
+<pb n="5" facs="tcp:179281:5"/>
+               <!-- PDF PAGE 123 -->and deter others from ſuch Crimes. Let not the Reader buſie himſelf ſo much in gue<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſing what notorious off<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce could cauſe the Infliction of ſo ſtrange a puniſhment, or branding the Deceaſed Party with harſh and unwarrantable (becauſe uncharitable) Cenſures, as to forget his own Duty, which is to become more Holy and more Humble, by ſuch dreadful Examples. And ſo to <hi>work out <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vation with Fe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r and T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ling,</hi> That when himſelf ſhall be Summoned by Death, however Providence ſhall diſpoſe of his Body, His Soul may be received into the Manſions of Bliſs and Glory.</p>
+            <trailer>FINIS</trailer>
+         </div>
+         <div type="list">
+            <pb facs="tcp:179281:6"/>
+            <!-- PDF PAGE 124 -->
+            <p>IF the Reader doubts of the Truth of this Matter, He may Repair to theſe Perſons following,</p>
+            <list>
+               <item>Mr. <hi>Edward Crouch,</hi> Living in <hi>Cow-Lane.</hi>
+               </item>
+               <item>Mr. <hi>Humphry Eeds,</hi> Living in <hi>Princes-ſtreet.</hi>
+               </item>
+               <item>Mr. <hi>Stephen Harwood,</hi> Living on the backſide of the <hi>Ex<g ref="char:EOLhyphen"/>change.</hi>
+               </item>
+               <item>Mr. <hi>Edward Barker,</hi> Living in <hi>Dunnings-Alley,</hi> without <hi>Biſhops-Gate.</hi>
+               </item>
+               <item>Mr. <hi>John Ames,</hi> Living at <hi>Tobie's</hi> Coffee-houſe, near <hi>Pie-Corner.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:179281:6"/>
+            <!-- PDF PAGE 124 -->
+            <pb facs="tcp:179281:7"/>
+            <!-- PDF PAGE 125 -->
+            <pb facs="tcp:179281:7"/>
+            <!-- PDF PAGE 125 -->
+            <pb facs="tcp:179281:8"/>
+            <!-- PDF PAGE 126 -->
+            <pb facs="tcp:179281:8"/>
+            <!-- PDF PAGE 126 -->
+         </div>
+      </body>
+   </text>
+</TEI>
